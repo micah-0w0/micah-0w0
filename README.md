@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Micah 👋
 
-<!--
-**micah-0w0/micah-0w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a SANS Cyber Academy participant exploring defensive cybersecurity and hands‑on blue‑team skills.
 
-Here are some ideas to get you started:
+- Incoming CS student @ Northeastern
+- GFACT-certified
+- Interested in defensive cybersecurity and blue‑team operations
+- MIT URTC 2024 presenter | GSET 2024
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- GSET/MIT URTC Binary Ninja Plugin
+- CS50x Final Project (Bingo)
+- Forage Job Simulation (BCG GenAI)
+- Personal Website (for fun)
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/micah-a-nelson
+- TryHackMe: https://tryhackme.com/p/tinyviolin1
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/tinyviolin1.png)
