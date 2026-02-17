@@ -17,4 +17,5 @@ I'm a SANS Cyber Academy participant exploring defensive cybersecurity and hands
 - LinkedIn: https://www.linkedin.com/in/micah-a-nelson
 - TryHackMe: https://tryhackme.com/p/tinyviolin1
 
-<img width="329" height="88" alt="image" src="https://github.com/user-attachments/assets/6958ca2e-af3f-475e-9209-cfde84747870" />
+<img width="329" height="88" alt="image" src="https://github.com/user-attachments/assets/5e166be1-417d-4a5a-8917-dfe5bde2c263" />
+
