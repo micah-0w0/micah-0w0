@@ -17,7 +17,7 @@ Published on IEEE Xplore and presented at MIT URTC 2024.
 **Repo:** https://github.com/bliutech/mbased
 
 ### **🔹 CS50x Final Project — Bingo**
-A complete Python/Flask Bingo game runner that handles card generation, game state tracking, win detection, and a simple web UI for interactive play.
+A complete Python/Flask Bingo game runner that handles card generation, game state tracking, win detection, and a simple web UI for interactive play.  
 **Repo:** https://github.com/micah-0w0/Bingo
 
 ---
