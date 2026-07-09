@@ -1,9 +1,9 @@
 # Hi, I'm Micah 👋
 
-I'm a SANS Cyber Academy participant focused on defensive cybersecurity, blue‑team operations, and hands‑on technical skill development.
+I'm a SANS Cyber Academy graduate focused on defensive cybersecurity, blue‑team operations, and hands‑on technical skill development.
 
 - Incoming CS student @ Northeastern University (Fall 2026)
-- **GSEC** • **GFACT**
+- **GCIH** • **GSEC** • **GFACT**
 - Exploring SOC operations, incident handling, DFIR, and secure coding practices
 - MIT URTC 2024 presenter • GSET 2024 researcher
 
@@ -23,10 +23,9 @@ A complete Python/Flask Bingo game runner that handles card generation, game sta
 ---
 
 ## Currently Learning & Building
+- Building my SOC lab (ELK)
 - Incident handling fundamentals (triage, evidence collection, response workflow)
-- Attacker techniques & exploitation concepts (aligned with SEC504)
 - TryHackMe SOC Analyst I Path
-- Planning my next defensive security project
 
 ---
 
