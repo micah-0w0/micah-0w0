@@ -23,7 +23,7 @@ A complete Python/Flask Bingo game runner that handles card generation, game sta
 ---
 
 ## Currently Learning & Building
-- Building my SOC lab (ELK)
+- Building my SOC lab (Microsoft Sentinel)
 - Incident handling fundamentals (triage, evidence collection, response workflow)
 - TryHackMe SOC Analyst I Path
 
