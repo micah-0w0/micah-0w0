@@ -16,6 +16,11 @@ Python-based Binary Ninja plugin for simplifying Mixed Boolean-Arithmetic (MBA) 
 Published on IEEE Xplore and presented at MIT URTC 2024.  
 **Repo:** https://github.com/bliutech/mbased
 
+### **🔹 Personal Portfolio Website**
+A portfolio that showcases my cybersecurity projects, homelab builds, and coding work.<br>
+**Repo:** https://github.com/micah-0w0/micah-0w0.github.io <br>
+**Website:** https://micah-0w0.github.io/
+
 ### **🔹 CS50x Final Project — Bingo**
 A complete Python/Flask Bingo game runner that handles card generation, game state tracking, win detection, and a simple web UI for interactive play.  
 **Repo:** https://github.com/micah-0w0/Bingo
