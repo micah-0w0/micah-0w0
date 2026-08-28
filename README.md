@@ -2,7 +2,7 @@
 
 I'm a SANS Cyber Academy graduate focused on defensive cybersecurity, blue‑team operations, and hands‑on technical skill development.
 
-- Incoming CS student @ Northeastern University (Fall 2026)
+- Computer Science student @ Northeastern University
 - **GCIH** • **GSEC** • **GFACT**
 - Exploring SOC operations, incident handling, DFIR, and secure coding practices
 - MIT URTC 2024 presenter • GSET 2024 researcher
@@ -28,9 +28,10 @@ A complete Python/Flask Bingo game runner that handles card generation, game sta
 ---
 
 ## Currently Learning & Building
-- Building my SOC lab (Microsoft Sentinel)
+- CodePath Intermediate Cybersecurity
 - Incident handling fundamentals (triage, evidence collection, response workflow)
 - TryHackMe SOC Analyst I Path
+- Building my SOC lab (Microsoft Sentinel)
 
 ---
 
